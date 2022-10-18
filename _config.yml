@@ -102,4 +102,4 @@ theme: landscape
 deploy:
   type: git
   repository: git@github.com:deshunyeye/deshunyeye.github.io.git
-  branch: main
+  branch: master
